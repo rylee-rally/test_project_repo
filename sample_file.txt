@@ -1,0 +1,2 @@
+# this is a comment
+# rvm --create --ruby-version ruby-2.1.5@sample_repo_gemset
